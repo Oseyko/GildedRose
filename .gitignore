@@ -6,9 +6,9 @@ target/
 *.iml
 
 # Eclipse
-.classpath
-.project
-.settings/
+# .classpath
+#.project
+# .settings/
 
 # Mac OS X
 .DS_Store
